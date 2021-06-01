@@ -1,3 +1,6 @@
+
+![Cover](./cover_github.png)
+
 ### Hi there, it's Eriz 👋
 
 - 🔭 I’m currently working on disrupting the asset management industry at [**Darwinex**](https://www.darwinex.com/).
