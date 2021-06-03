@@ -1,5 +1,5 @@
 
-![Cover](./cover_github.png)
+![Cover](./cover_github1.png)
 
 ### Hi there, it's Eriz 👋
 
